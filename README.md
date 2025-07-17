@@ -7,6 +7,7 @@ This involves estimating both the direction (elevation and azimuth angles) and s
 The human auditory system performs this naturally through binaural hearing, while technological solutions use sensor arrays 
 and signal processing algorithms to emulate or surpass these capabilities.
 
+
 ## Main Techniques in 3D Sound Localization
 
 Multiple physical cues and digital processing techniques make precise sound localization possible:
@@ -34,6 +35,7 @@ Multiple physical cues and digital processing techniques make precise sound loca
     Object-based audio: Positions discrete audio sources in 3D space.
     Virtual reproduction: Uses HRTF and signal processing to simulate sources from multiple directions with headphones or a small number of speakers.
 
+
 ## Challenges in Localization
 
 1. **Noise and Reverberation**
@@ -50,8 +52,10 @@ Multiple physical cues and digital processing techniques make precise sound loca
 3. **Source Multiplicity and Separation**
     Issue: Localizing several concurrent sound sources is challenging.
     Approach: Advanced algorithms can decompose the sound field or select the strongest sources.
+
 		
 ## Denoising and Noise Reduction
+
     Frequency filtering: Bandpass filters isolate frequency bands of interest.
     Spatial filtering: Array processing emphasizes signals from a specific direction.
     Post-processing: Statistical or machine learning models provide robustness to complex environments.
