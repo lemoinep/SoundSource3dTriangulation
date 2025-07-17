@@ -169,9 +169,10 @@ if __name__ == "__main__":
 
     # 6. For each, report spherical and cartesian position (at R from center)
     print("\nDetected sources:")
-    for i, (power, th, ph) in enumerate(k_best):
-        pos_cart = sph_to_cart(R, th, ph)
-        print(f"Source {i+1}: θ={th:.1f}° φ={ph:.1f}° | xyz = {pos_cart}")
+for i, (power, th, ph) in enumerate(k_best):
+    pos_cart = sph_to_cart(R, th, ph)
+    dist = np.linalg.norm(pos_cart)
+    print(f"Source {i+1}: θ={th:.1f}° φ={ph:.1f}° | xyz = {pos_cart} | distance = {dist:.3f} m")
 
     # Optionally: mapping to center of sphere (all positions given wrt center)
     # angle elevations are θ (inclination from Z+), φ azimuth CCW from X+
