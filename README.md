@@ -75,6 +75,12 @@ The script processes the recorded signals from all microphones, detects the stro
 and positions relative to the center of the sphere. For each detected source, the program outputs both its Cartesian coordinates and its spherical angles (elevation θ and azimuth φ).
 The signal processing includes optional bandpass filtering and a simple beamforming algorithm (SRP-PHAT-style) to locate multiple concurrent sources.
 
-- 
+- Localization3DOfSoundWithNCapteurs3DView.py: This program simulates a spherical microphone array and synthesizes impulse signals from multiple sound sources located at random distances
+and directions around it. It implements a simplified Steered Response Power Phase Transform (SRP-PHAT) beamforming algorithm to scan a spatial grid 
+and estimate the directions of dominant sound sources. The program identifies the top strongest source directions while avoiding duplicates close in angle. 
+Finally, it visualizes the microphone positions on the sphere and the probable source locations in 3D, accurately reflecting their estimated directions and simulated distances.
+This approach is useful for robust 3D sound source localization in reverberant environments.
+
+
  
  
