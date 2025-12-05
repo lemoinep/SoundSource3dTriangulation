@@ -1,5 +1,7 @@
 # 3D Sound Localization
 
+<img src="Images/P0001.jpg" width="75%" />
+
 ## Introduction
 
 3D sound localization refers to the process of determining the spatial position of a sound source in three-dimensional space. 
