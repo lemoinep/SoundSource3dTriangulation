@@ -12,7 +12,7 @@ and signal processing algorithms to emulate or surpass these capabilities.
 
 ## Main Techniques in 3D Sound Localization
 
-<img src="Images/P0002.jpg" width="75%" />
+<img src="Images/P0002.jpg" width="100%" />
 
 Multiple physical cues and digital processing techniques make precise sound localization possible:
 
@@ -88,19 +88,19 @@ This approach is useful for robust 3D sound source localization in reverberant e
 
 ## A short course for more information
 
-<img src="Images/Z20260109_000001.jpg" width="75%" />
-<img src="Images/Z20260109_000002.jpg" width="75%" />
-<img src="Images/Z20260109_000003.jpg" width="75%" />
-<img src="Images/Z20260109_000004.jpg" width="75%" />
-<img src="Images/Z20260109_000005.jpg" width="75%" />
-<img src="Images/Z20260109_000006.jpg" width="75%" />
-<img src="Images/Z20260109_000007.jpg" width="75%" />
-<img src="Images/Z20260109_000008.jpg" width="75%" />
-<img src="Images/Z20260109_000009.jpg" width="75%" />
-<img src="Images/Z20260109_000010.jpg" width="75%" />
-<img src="Images/Z20260109_000011.jpg" width="75%" />
-<img src="Images/Z20260109_000012.jpg" width="75%" />
-<img src="Images/Z20260109_000013.jpg" width="75%" />
+<img src="Images/Z20260109_000001.jpg" width="100%" />
+<img src="Images/Z20260109_000002.jpg" width="100%" />
+<img src="Images/Z20260109_000003.jpg" width="100%" />
+<img src="Images/Z20260109_000004.jpg" width="100%" />
+<img src="Images/Z20260109_000005.jpg" width="100%" />
+<img src="Images/Z20260109_000006.jpg" width="100%" />
+<img src="Images/Z20260109_000007.jpg" width="100%" />
+<img src="Images/Z20260109_000008.jpg" width="100%" />
+<img src="Images/Z20260109_000009.jpg" width="100%" />
+<img src="Images/Z20260109_000010.jpg" width="100%" />
+<img src="Images/Z20260109_000011.jpg" width="100%" />
+<img src="Images/Z20260109_000012.jpg" width="100%" />
+<img src="Images/Z20260109_000013.jpg" width="100%" />
 
 
 
