@@ -1,6 +1,6 @@
 # 3D Sound Localization
 
-[![Version](https://img.shields.io/badge/version-1.5-green.svg)](https://github.com/lemoinep/3DCollisionSimulationAndromedaMilkyWayExploration)
+[![Version](https://img.shields.io/badge/version-1.5-green.svg)](https://github.com/lemoinep/SoundSource3dTriangulation)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.12%2B-blue.svg)](https://www.python.org/)
 
